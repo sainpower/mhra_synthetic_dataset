@@ -4,7 +4,7 @@ This repository contains work completed in support of SH’s Final Data Science 
 
 # Data Sources
 
-The primary data source for this project is #confidential and not available in this repository.
+The primary data source for this project is CONFIDENTAIL and not available in this repository.
 
 However, the included Python notebook enables other researchers to generate a synthetic version of the dataset in a short time. Using a randomised data generation approach, the notebook can create over 100,000 records that replicate the statistical structure of the original dataset without exposing sensitive information.
 
