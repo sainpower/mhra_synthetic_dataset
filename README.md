@@ -1,4 +1,4 @@
-## Synthetic Dataset Creation for SH EPA’s (Supporting DS Initiative)
+# Synthetic Dataset Creation for SH EPA’s (Supporting DS Initiative)
 
 This repository contains work completed in support of SH’s Final Data Science Project using the EPA framework. The focus is on analysing reported adverse reactions to Paracetamol during 2021, and creating a synthetic dataset for further machine learning (ML) experimentation.
 
